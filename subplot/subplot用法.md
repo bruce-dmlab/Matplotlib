@@ -15,7 +15,7 @@
 
 * 範例1:
 
-![1](/home/bruce/Desktop/123.png)
+![1](https://github.com/bruce-dmlab/Matplotlib/blob/master/subplot/123.png?raw=true)
 
 ​				上述的程式碼,其運作會將一張圖切成2列2行共四等份,如果要說明清楚一些,大		概就像下圖：
 
